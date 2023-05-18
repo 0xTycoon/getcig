@@ -50,7 +50,7 @@ contract GetCig {
     }
 
     function getStats(address _a) {
-
+        // todo
     }
 
     /*

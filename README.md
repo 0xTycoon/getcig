@@ -8,6 +8,8 @@ The oracle os used by the `getcig.sol` contract to ensure that the user is getti
 
 `cigoracle.sol` is an oracle that only measures the ETH price in cig. Used by `getcig.eth` for buying cig with ETH.
 
+rename `hardhat.config.example.js` to `hardhat.config.js` and configure to your needs.
+
 Try running some of the following tasks:
 
 ```shell
